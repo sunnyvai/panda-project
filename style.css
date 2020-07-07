@@ -25,3 +25,68 @@ font-size: 17px ;
 color: #f7f7f7;
 font-weight: 700;
 }
+ 
+.cat1 {
+    background: rgb(221, 149, 41);
+}
+.cat2 {
+    background: orangered;
+}
+
+.cat3    {
+    background: palevioletred;
+}
+
+.cat1,.cat2,.cat3 {
+    border-radius: 5px;
+    color: #f7f7f7 ;
+    font-weight: bolder;
+    padding: 10px 30px;
+}
+
+.card-title{
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+
+.card-btn {
+    
+padding: 10px 20px;
+color: navajowhite;
+font-weight: 900;
+border-radius: 5px;
+
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ff3232+0,56719e+100 */
+background: #ff3232; /* Old browsers */
+background: -moz-linear-gradient(45deg,  #ff3232 0%, #56719e 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  #ff3232 0%,#56719e 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  #ff3232 0%,#56719e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3232', endColorstr='#56719e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+
+}
+
+.card h5 {
+    font-weight: bolder;}
+
+    
+.card {
+    box-shadow: 5px 5px 10px lightslategray;
+    border: none;
+}
+
+.card-footer {
+    background: none;
+    border: none;
+}
+
+.subscribe {
+    height: 550px;
+}
+
+footer {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
