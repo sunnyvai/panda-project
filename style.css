@@ -1,0 +1,27 @@
+.pinkish-bg {
+    background: #fceae8;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.container {
+    margin-bottom: 100px;
+}
+
+.price-tag {
+    color: crimson;
+}
+.boxed-btn {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ea004e+0,ff7400+100 */
+background: #ea004e; /* Old browsers */
+background: -moz-linear-gradient(45deg,  #ea004e 0%, #ff7400 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  #ea004e 0%,#ff7400 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  #ea004e 0%,#ff7400 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea004e', endColorstr='#ff7400',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+padding: 7px 30px;
+font-size: 17px ;
+color: #f7f7f7;
+font-weight: 700;
+}
